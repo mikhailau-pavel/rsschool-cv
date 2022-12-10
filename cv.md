@@ -18,3 +18,8 @@ Code example:
 function multiply(a, b){
   return a * b
 }
+```
+Projects: [CV](https://github.com/mikhailau-pavel/rsschool-cv) 
+-----------
+Education: RSSchool (in progress)
+English: *Upper-Intermediate*

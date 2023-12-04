@@ -1,0 +1,15 @@
+* {
+    margin: auto;
+    max-width: 720px;
+  }
+  .image {
+    max-height: 250px;
+    max-width: 250px;
+  }
+  h2 {
+    background-color: #61B7CF;
+  }
+  header, main, footer {
+    border: 1px solid black ;
+    background-color: #FFBA73;
+  }
